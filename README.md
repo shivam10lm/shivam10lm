@@ -49,7 +49,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
     <a href="https://discord.com/users/shivam10lm%237753" target="_blank">
-    <img src="https://1000logos.net/wp-content/uploads/2021/06/Discord-logo.png" height="35" alt="discord logo"  />
+    <img src="https://logo.com/image-cdn/images/kts928pd/production/3a8feb0e279d07a02c91451aebf4dba91263075a-1140x620.png?w=1080&q=72" height="35" alt="discord logo"  />
   </a>
 </div>
 
