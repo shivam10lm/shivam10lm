@@ -45,8 +45,11 @@
   <a href="shivam10lam@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/shivam-gupta-91b578122/" target="_blank">
+  <a href="https://www.linkedin.com/in/shivamgupta-sg/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+    <a href="https://discord.com/users/shivam10lm%237753" target="_blank">
+    <img src="https://1000logos.net/wp-content/uploads/2021/06/Discord-logo.png" height="35" alt="discord logo"  />
   </a>
 </div>
 
